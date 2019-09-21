@@ -1,0 +1,25 @@
+{
+  "name": "sonarcloud-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial for how to setup sonarcloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasani-arpit/sonarcloud-tutorial.git"
+  },
+  "keywords": [
+    "sonar",
+    "sonarcloud",
+    "sonarcube",
+    "code-review"
+  ],
+  "author": "Arpit Vasani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasani-arpit/sonarcloud-tutorial/issues"
+  },
+  "homepage": "https://github.com/vasani-arpit/sonarcloud-tutorial#readme"
+}
